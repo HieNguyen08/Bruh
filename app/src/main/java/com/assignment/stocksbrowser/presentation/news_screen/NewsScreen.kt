@@ -57,10 +57,10 @@ fun NewsScreen(
 ) {
     val scrollBehavior = TopAppBarDefaults.enterAlwaysScrollBehavior()
     val pagerState = rememberPagerState(
-        initialPage = 10,
+        initialPage = 0,
         initialPageOffsetFraction = 0f
     ) {
-        10
+        2
     }
     val coroutineScope = rememberCoroutineScope()
 
