@@ -4,72 +4,56 @@
     <shared>
       <config />
     </shared>
-    <layouts>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/analysis_fragment.xml">
-        <config>
-          <theme>@style/Theme.StocksBrowser</theme>
-        </config>
-      </layout>
-    </layouts>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccbf5ea0-c33c-40fc-97e1-10b3c39bee45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/DataClasses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bugcat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+    <list default="true" id="ccbf5ea0-c33c-40fc-97e1-10b3c39bee45" name="Changes" comment="Push all">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/Stocks_Browser.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/Analysis.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/util/Resource.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_academia.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_right.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dark_mode.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_error.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_exam.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_excel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_exit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_favorite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_feedback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_graphic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_language.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_loading.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_pdf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_share.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_star.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_time.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_visibility.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_visibility_off.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_visibility_off_two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_visibility_two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/myvocabularynotebook/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/myvocabularynotebook/UtilClassUnitTest/LoginUtilTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/myvocabularynotebook/UtilClassUnitTest/SignInUtilTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/Stocks Browser.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Stocks_Browser.app.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/MainScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/MainScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/NasdaqApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/topmarket_news/NasdaqApiService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/NewsApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/topmarket_news/NewsApi.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/NewsRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/topmarket_news/NewsRepositoryImpl.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/YahooApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/topmarket_news/YahooApiService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/dao/StocksDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/dao/StocksDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/topmarket_news/NasdaqApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/NasdaqApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/topmarket_news/NewsApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/NewsApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/topmarket_news/NewsRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/NewsRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/topmarket_news/YahooApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/api/YahooApiService.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/di/AppModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/di/AppModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/di/AppNewsModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/di/AppNewsModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/domain/repository/NewRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/domain/repository/NewRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/model/network/ChartDto.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/model/network/ChartDto.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/navigation/AppNavHost.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/navigation/AppNavHost.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/presentation/component/BottomSheetContent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/presentation/component/BottomSheetContent.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/presentation/component/NewsScreenTopBar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/presentation/component/NewsScreenTopBar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/presentation/news_screen/NewsScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/presentation/news_screen/NewsScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/presentation/news_screen/NewsScreenViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/presentation/news_screen/NewsScreenViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/repositories/ChartsRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/repositories/ChartsRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/detail/components/CandleStickBox.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/detail/components/CandleStickBox.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/detail/components/IntervalButtons.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/detail/components/IntervalButtons.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/detail/components/TopAppBarDetails.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/detail/components/TopAppBarDetails.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/detail/screen/DetailScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/detail/screen/DetailScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/detail/screen/DetailViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/detail/screen/DetailViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/Analysis.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/HomeScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/HomeScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/HomeState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/HomeState.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/HomeViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/HomeViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/Notify.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/Notify.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/Portfolio.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/Portfolio.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/Profile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/Profile.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/Trading.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/home/screen/Trading.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/ui/theme/Theme.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/usecases/UpdateEtfsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/usecases/UpdateEtfsUseCase.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/usecases/UpdateStocksUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/usecases/UpdateStocksUseCase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/util/Resource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/assignment/stocksbrowser/utils/Resource.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/Stocks Browser.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/juraj/stocksbrowser/api/NasdaqApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/juraj/stocksbrowser/api/NasdaqApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/juraj/stocksbrowser/api/YahooApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/juraj/stocksbrowser/api/YahooApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,8 +114,9 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "ten__nhanh__moi",
-    "last_opened_file_path": "D:/Downloads/stock-browser-1_2/stock-browser-1/app/src/main/java/com/assignment/stocksbrowser/login_regis",
+    "git-widget-placeholder": "Merging ten__nhanh__moi",
+    "last_directory_selection": "D:/Downloads/stock-browser-1_2/stock-browser-1/app/src/main/res/mipmap-hdpi",
+    "last_opened_file_path": "D:/Downloads/stock-browser-1_2/stock-browser-1/app/src/main/res/font",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2"
@@ -139,11 +124,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Downloads\stock-browser-1_2\stock-browser-1\app\src\main\java\com\assignment\stocksbrowser\login_regis" />
-      <recent name="D:\Downloads\stock-browser-1_2\stock-browser-1\app\src\main\java\com\assignment\stocksbrowser\ui\home\screen" />
-      <recent name="D:\Downloads\stock-browser-1_2\stock-browser-1\app\src\main\java\com\assignment\stocksbrowser\presentation\analysis" />
-      <recent name="D:\Downloads\stock-browser-1_2\stock-browser-1\app\src\main\java\com\assignment\stocksbrowser\domain\domain_ana" />
-      <recent name="D:\Downloads\stock-browser-1_2\stock-browser-1\app\src\main\java\com\assignment\stocksbrowser\di\ana_di" />
+      <recent name="D:\Downloads\stock-browser-1_2\stock-browser-1\app\src\main\res\font" />
+      <recent name="D:\Downloads\stock-browser-1_2\stock-browser-1\app\src\main\res\drawable" />
+      <recent name="D:\Downloads\stock-browser-1_2\stock-browser-1\app\src\main\java" />
+      <recent name="D:\Downloads\stock-browser-1_2\stock-browser-1\app\src\main\java\com\assignment\stocksbrowser\login_register" />
+      <recent name="D:\Downloads\stock-browser-1_2\stock-browser-1\app\src\main\java\com\assignment\stocksbrowser\api" />
     </key>
     <key name="CreateKotlinClassDialog.RecentsKey">
       <recent name="com.assignment.stocksbrowser.ui.home.screen" />
@@ -248,6 +233,15 @@
       <option name="presentableId" value="Default" />
       <updated>1702068620409</updated>
     </task>
+    <task id="LOCAL-00001" summary="Push all">
+      <option name="closed" value="true" />
+      <created>1702131478072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702131478072</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,5 +254,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Push all" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push all" />
   </component>
 </project>

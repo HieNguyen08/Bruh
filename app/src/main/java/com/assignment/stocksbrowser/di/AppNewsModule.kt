@@ -1,8 +1,8 @@
 package com.assignment.stocksbrowser.di
 
-import com.assignment.stocksbrowser.api.topmarket_news.NewsApi
-import com.assignment.stocksbrowser.api.topmarket_news.NewsApi.Companion.BASE_URL
-import com.assignment.stocksbrowser.api.topmarket_news.NewsRepositoryImpl
+import com.assignment.stocksbrowser.api.NewsApi
+import com.assignment.stocksbrowser.api.NewsApi.Companion.BASE_URL
+import com.assignment.stocksbrowser.api.NewsRepositoryImpl
 import com.assignment.stocksbrowser.domain.repository.NewsRepository
 import dagger.Module
 import dagger.Provides

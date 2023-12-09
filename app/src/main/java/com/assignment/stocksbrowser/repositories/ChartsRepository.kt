@@ -1,6 +1,6 @@
 package com.assignment.stocksbrowser.repositories
 
-import com.assignment.stocksbrowser.api.topmarket_news.YahooApiService
+import com.assignment.stocksbrowser.api.YahooApiService
 import com.assignment.stocksbrowser.model.network.ChartApiResult
 import javax.inject.Inject
 

@@ -1,6 +1,6 @@
 package com.assignment.stocksbrowser.usecases
 
-import com.assignment.stocksbrowser.api.topmarket_news.NasdaqApiService
+import com.assignment.stocksbrowser.api.NasdaqApiService
 import com.assignment.stocksbrowser.model.room.toEtfEntity
 import com.assignment.stocksbrowser.repositories.EtfRepository
 import timber.log.Timber

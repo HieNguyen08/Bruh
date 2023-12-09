@@ -10,8 +10,8 @@ import androidx.datastore.preferences.core.emptyPreferences
 import androidx.datastore.preferences.preferencesDataStoreFile
 import androidx.room.Room
 import com.jakewharton.retrofit2.converter.kotlinx.serialization.asConverterFactory
-import com.assignment.stocksbrowser.api.topmarket_news.NasdaqApiService
-import com.assignment.stocksbrowser.api.topmarket_news.YahooApiService
+import com.assignment.stocksbrowser.api.NasdaqApiService
+import com.assignment.stocksbrowser.api.YahooApiService
 import com.assignment.stocksbrowser.dao.AppDatabase
 import com.assignment.stocksbrowser.dao.EtfDao
 import com.assignment.stocksbrowser.dao.StocksDao
