@@ -30,7 +30,6 @@ fun BottomBar(navController: NavHostController) {
     val screens = listOf(
         BottomBarScreen.Home,
         BottomBarScreen.Market,
-        BottomBarScreen.Analysis,
         BottomBarScreen.Trading,
         BottomBarScreen.Portfolio,
         BottomBarScreen.Notify,
